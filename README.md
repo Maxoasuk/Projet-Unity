@@ -9,9 +9,9 @@ Tildmap
 Menu
 
 # Direction 
-Ajouter une barre de vue visible
-Ajouter de nouveau décor (terre, lac, ect . . .)
-Ajouter des loots au mob
-Ajouter une animation de dégâts au joueur
-Ajouter des action au joueur
-(Dans mon rêve) Ajouter un boss
+Ajouter une barre de vue visible \n
+Ajouter de nouveau décor (terre, lac, ect . . .) \n
+Ajouter des loots au mob \n
+Ajouter une animation de dégâts au joueur \n
+Ajouter des action au joueur \n
+(Dans mon rêve) Ajouter un boss\n
